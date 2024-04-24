@@ -11,6 +11,9 @@ Reporting and Analytics: The system would provide reporting tools to generate va
 Integration and Scalability: The system would be designed to integrate with existing university systems and databases, as well as being scalable to accommodate future growth and changes.
 Security and Data Protection: Robust security measures would be implemented to ensure the confidentiality, integrity, and availability of sensitive information, adhering to relevant data protection regulations.
 User-Friendly Interface: The system would feature an intuitive and user-friendly interface, with easy navigation and accessibility across different devices and platforms.
+
+SOME SAMPLE SCREENSHOTS:-
+
 ![Screenshot 2024-04-24 203333](https://github.com/Ritikakaushal45/ritika-kaushal/assets/130858444/650e9801-bf80-43eb-a57c-52bf8f223508)
 ![Screenshot 2024-04-24 204631](https://github.com/Ritikakaushal45/ritika-kaushal/assets/130858444/581cd8f4-7945-44df-a6e9-9adc15085e8a)
 ![Screenshot 2024-04-24 204741](https://github.com/Ritikakaushal45/ritika-kaushal/assets/130858444/128958f1-9e86-4766-ae53-57744edcc2e2)
